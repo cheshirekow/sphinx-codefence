@@ -1,0 +1,9 @@
+*.egg-info
+__pycache__
+.pyenv
+.stamps
+.vscode
+build
+dist
+doc/build
+doc/make.bat
